@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 大连学校
+title: 学无止境
 subtitle: !!!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
