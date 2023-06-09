@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My geninus Website
+title: 大连高校简介
 
 # Your name to show in the footer
-author: Some Person
+author: gzy
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  关于我: "aboutme"
+  资源:
+    - ccry: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  HOME: "https://deanattali.com"
 
 ################
 # --- Logo --- #
